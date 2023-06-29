@@ -1,0 +1,24 @@
+.profile {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+.menu {
+  font-size: 30px;
+}
+#menu1 {
+  color: brown;
+}
+
+#menu2 {
+  color: blueviolet;
+}
+
+#menu3{ 
+    color:darkgoldenrod;
+}
+
+body {
+  background-color: antiquewhite;
+}
