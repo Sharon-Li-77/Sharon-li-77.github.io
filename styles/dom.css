@@ -1,0 +1,9 @@
+body {
+  text-align: center;
+  background-color: paleturquoise;
+}
+
+.image {
+  width: 400px;
+  height: 300px;
+}
