@@ -15,10 +15,15 @@
   color: blueviolet;
 }
 
-#menu3{ 
-    color:darkgoldenrod;
+#menu3 {
+  color: darkgoldenrod;
 }
 
 body {
   background-color: antiquewhite;
+}
+
+.A {
+  padding: 40px;
+  display: inline-block;
 }
