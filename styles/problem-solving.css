@@ -1,0 +1,26 @@
+h1 {
+  text-align: center;
+
+  background-color: blueviolet;
+}
+
+.A {
+  font-size: 35px;
+}
+
+p {
+  font-size: 25px;
+}
+
+.B {
+  font-size: 25px;
+}
+
+h3 {
+  font-size: 25px;
+}
+
+.box {
+  padding-left: 300px;
+  padding-right: 300px;
+}

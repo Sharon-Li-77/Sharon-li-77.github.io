@@ -1,0 +1,23 @@
+.one {
+  padding-right: 1000px;
+  background-color: orange;
+  font-size: 20px;
+}
+
+.two {
+  padding-left: 1000px;
+  background-color: pink;
+  font-size: 20px;
+}
+
+.three {
+  padding-right: 1000px;
+  background-color: bisque;
+  font-size: 20px;
+}
+
+.four {
+  padding-left: 1000px;
+  background-color: #ffff66;
+  font-size: 20px;
+}
