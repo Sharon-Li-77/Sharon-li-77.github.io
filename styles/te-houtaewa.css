@@ -1,0 +1,20 @@
+@media (min-width: 300px) {
+  body {
+    padding-top: 200px;
+    background-color: bisque;
+    text-align: center;
+  }
+
+  P {
+    padding-left: 300px;
+    padding-right: 300px;
+    font-size: 25px;
+  }
+
+  h2 {
+    color: grey;
+    padding-left: 300px;
+    padding-right: 300px;
+    font-size: 25px;
+  }
+}
