@@ -1,0 +1,43 @@
+.black-one {
+  padding-right: 1500px;
+  background-color: black;
+  font-size: 25px;
+}
+
+.black-two {
+  padding-left: 1300px;
+  background-color: black;
+  font-size: 25px;
+}
+
+.black-three {
+  padding-right: 1500px;
+  background-color: black;
+  font-size: 25px;
+}
+
+.black-four {
+  padding-left: 1500px;
+  background-color: black;
+  font-size: 25px;
+}
+
+.black-five {
+  padding-right: 1500px;
+  background-color: black;
+  font-size: 25px;
+}
+
+.black-six {
+  padding-left: 1500px;
+  background-color: black;
+  font-size: 25px;
+}
+
+P {
+  color: azure;
+}
+
+h2 {
+  color: white;
+}
